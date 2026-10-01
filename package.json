@@ -1,0 +1,10 @@
+{
+  "name": "rcytrio-server",
+  "version": "1.2.0",
+  "private": true,
+  "description": "RCYTrio realtime multiplayer, friends, direct messages and party server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.21.0" }
+}
